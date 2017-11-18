@@ -26,7 +26,7 @@ if(x=="1"){xxx="/2017/09/cara-setting-ppsspp-di-hp-android.html"}
 if(x=="2"){xxx="/2017/09/game-android-yang-mengasah-otak-kalian_17.html"}
 if(x=="3"){xxx="/2017/09/cara-membagi-partisi-hardisk-dengan_17.html"}
 if(x=="4"){xxx="/2017/09/game-pc-ringan-yang-paling-sulit-terbaru97.html"}
-if(x=="5"){xxx="/2017/09/cara-menemukan-hp-android-yang-hilang.html"}a_to_ve[i].href="http://gamekeren21.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2017/09/cara-menemukan-hp-android-yang-hilang.html"}a_to_ve[i].href="http://www.gamekeren21.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
